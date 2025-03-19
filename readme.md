@@ -13,7 +13,7 @@ Proje klasörü aşağıdaki dosya ve klasörleri içerir:
 
 ## Resimler
 Projeyi daha iyi anlamak için aşağıdaki diyagramı kullanabilirsiniz:
-![Proje Diyagramı](img/CCC.png)
+![Proje Diyagramı](https://github.com/endassenol/PA_2/blob/main/Img/CCC.jpeg)
 
 ## Tablo Örneği
 Aşağıda `coordinates.csv` dosyasındaki verilerin bir örneği bulunmaktadır:
